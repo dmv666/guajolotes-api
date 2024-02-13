@@ -69,8 +69,42 @@
         ],
         "precio": "$25 MXN"
       },
-      {
+            {
         "id": "3",
+        "name": "Guajolota de Tamal de Guayaba",
+        "emmet": "Guayaba",
+        "type" : "guajolotes",
+        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-GUAYABA_nmgad6.png",
+        "sabores": [
+          {
+            "id": "sabor1",
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+          },
+          {
+            "id": "sabor2",
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+          },
+          {
+            "id": "sabor3",
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+          },
+          {
+            "id": "sabor4",
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+          },
+          {
+            "id": "sabor5",
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+          },
+          {
+            "id": "sabor6",
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587428/Imagenes%20guapjolotas/guayaba_ti0axz.png"
+          }
+        ],
+        "precio": "$25 MXN"
+      },
+      {
+        "id": "4",
         "name": "Guajolota de Tamal de piña",
         "emmet": "Piña",
         "type" : "guajolotes",
@@ -82,7 +116,7 @@
           },
           {
             "id": "sabor2",
-            "img": "hhttps://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
           },
           {
             "id": "sabor3",
@@ -104,7 +138,7 @@
         "precio": "$25 MXN"
       },
       {
-        "id": "4",
+        "id": "5",
         "name": "Guajolota de Tamal de Pasas",
         "emmet": "Pasas",
         "type" : "guajolotes",
@@ -386,7 +420,7 @@
           },
           {
             "id": "sabor2",
-            "img": "hhttps://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
           },
           {
             "id": "sabor3",
