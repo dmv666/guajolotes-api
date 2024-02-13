@@ -1,445 +1,437 @@
+[
+ {
+  "id": "1",
+  "name": "Guajolota de Tamal Verde",
+  "emmet": "Verde",
+  "type": "guajolotes",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-VERDE_ppkh3c.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587430/Imagenes%20guapjolotas/verde_z8lll0.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$25 MXN"
+},
 {
-  "categorias": {
-    "Guajolotes": [
-      {
-        "id": "1",
-        "name": "Guajolota de Tamal Verde",
-        "emmet": "Verde",
-        "type" : "guajolotes",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-VERDE_ppkh3c.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587430/Imagenes%20guapjolotas/verde_z8lll0.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$25 MXN"
-      },
-      {
-        "id": "2",
-        "name": "Guajolota de Tamal de Mole",
-        "emmet": "Mole",
-        "type" : "guajolotes",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-MOLE_v64d8p.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587428/Imagenes%20guapjolotas/mole_o0b8uh.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$25 MXN"
-      },
-            {
-        "id": "3",
-        "name": "Guajolota de Tamal de Guayaba",
-        "emmet": "Guayaba",
-        "type" : "guajolotes",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-GUAYABA_nmgad6.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707786554/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_qjmxjc.png"
-          }
-        ],
-        "precio": "$25 MXN"
-      },
-      {
-        "id": "4",
-        "name": "Guajolota de Tamal de piña",
-        "emmet": "Piña",
-        "type" : "guajolotes",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-PI%C3%91A_ubewus.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pi%C3%B1a_zrts1p.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$25 MXN"
-      },
-      {
-        "id": "5",
-        "name": "Guajolota de Tamal de Pasas",
-        "emmet": "Pasas",
-        "type" : "guajolotes",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-PASAS_pllwx4.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pasas_rxtycc.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$25 MXN"
-      }
-    ],
-    "Bebidas": [
-      {
-        "id": "1",
-        "name": "Champurrado",
-        "type" : "bebidas",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/champurrado_zacyna.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-arroz_con_leche_omds9n-removebg-preview_rfj0qr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-chocolate_agpz4n-removebg-preview_vco2il.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-cafe_tdmqsh-removebg-preview_u0hgsd.png"
-          }
-        ],
-        "precio": "$12 MXN"
-      },
-      {
-        "id": "2",
-        "name": "Atole de Arroz con Leche",
-        "type" : "bebidas",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-ARROZ_CON_LECHE_vta3te.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-champurrado_zacyna-removebg-preview_h9ge7e.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/arroz_con_leche_omds9n.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-chocolate_agpz4n-removebg-preview_vco2il.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-cafe_tdmqsh-removebg-preview_u0hgsd.png"
-          }
-        ],
-        "precio": "$12 MXN"
-      },
-      {
-        "id": "3",
-        "name": "Chocolate Caliente",
-        "type" : "bebidas",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-champurrado_zacyna-removebg-preview_h9ge7e.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-arroz_con_leche_omds9n-removebg-preview_rfj0qr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/chocolate_agpz4n.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-cafe_tdmqsh-removebg-preview_u0hgsd.png"
-          }
-        ],
-        "precio": "$12 MXN"
-      },
-      {
-        "id": "4",
-        "name": "Café Negro",
-        "type" : "bebidas",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-champurrado_zacyna-removebg-preview_h9ge7e.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-arroz_con_leche_omds9n-removebg-preview_rfj0qr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-chocolate_agpz4n-removebg-preview_vco2il.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/cafe_tdmqsh.png"
-          }
-        ],
-        "precio": "$12 MXN"
-      }
-    ],
-    "Tamales": [
-      {
-        "id": "1",
-        "name": "Tamal Verde",
-        "type" : "tamales",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/T-VERDE_qdbpna.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587430/Imagenes%20guapjolotas/verde_z8lll0.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$14 MXN"
-      },
-      {
-        "id": "2",
-        "name": "Tamal de Mole",
-        "type" : "tamales",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/T-MOLE_kd85ue.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587428/Imagenes%20guapjolotas/mole_o0b8uh.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$14 MXN"
-      },
-      {
-        "id": "3",
-        "name": "Tamal de Guayaba",
-        "type" : "tamales",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/TD-GUAYABA_goyskm.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707786554/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_qjmxjc.png"
-          }
-        ],
-        "precio": "$14 MXN"
-      },
-      {
-        "id": "4",
-        "name": "Tamal de Piña",
-        "type" : "tamales",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587430/Imagenes%20guapjolotas/TD-PI%C3%91A_qfhege.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pi%C3%B1a_zrts1p.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$14 MXN"
-      },
-      {
-        "id": "5",
-        "name": "Tamal de Pasas",
-        "type" : "tamales",
-        "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705590921/Imagenes%20guapjolotas/TD-PASAS_hd4grr.png",
-        "sabores": [
-          {
-            "id": "sabor1",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
-          },
-          {
-            "id": "sabor2",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
-          },
-          {
-            "id": "sabor3",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
-          },
-          {
-            "id": "sabor4",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
-          },
-          {
-            "id": "sabor5",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pasas_rxtycc.png"
-          },
-          {
-            "id": "sabor6",
-            "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
-          }
-        ],
-        "precio": "$14 MXN"
-      }
-    ]
-  }
+  "id": "2",
+  "name": "Guajolota de Tamal de Mole",
+  "emmet": "Mole",
+  "type": "guajolotes",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-MOLE_v64d8p.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587428/Imagenes%20guapjolotas/mole_o0b8uh.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$25 MXN"
+},
+{
+  "id": "3",
+  "name": "Guajolota de Tamal de Guayaba",
+  "emmet": "Guayaba",
+  "type": "guajolotes",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-GUAYABA_nmgad6.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707786554/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_qjmxjc.png"
+    }
+  ],
+  "precio": "$25 MXN"
+},
+{
+  "id": "4",
+  "name": "Guajolota de Tamal de piña",
+  "emmet": "Piña",
+  "type": "guajolotes",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-PI%C3%91A_ubewus.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pi%C3%B1a_zrts1p.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$25 MXN"
+},
+{
+  "id": "5",
+  "name": "Guajolota de Tamal de Pasas",
+  "emmet": "Pasas",
+  "type": "guajolotes",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-PASAS_pllwx4.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pasas_rxtycc.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$25 MXN"
+},
+{
+  "id": "6",
+  "name": "Champurrado",
+  "type": "bebidas",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/champurrado_zacyna.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-arroz_con_leche_omds9n-removebg-preview_rfj0qr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-chocolate_agpz4n-removebg-preview_vco2il.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-cafe_tdmqsh-removebg-preview_u0hgsd.png"
+    }
+  ],
+  "precio": "$12 MXN"
+},
+{
+  "id": "7",
+  "name": "Atole de Arroz con Leche",
+  "type": "bebidas",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-ARROZ_CON_LECHE_vta3te.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-champurrado_zacyna-removebg-preview_h9ge7e.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/arroz_con_leche_omds9n.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-chocolate_agpz4n-removebg-preview_vco2il.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-cafe_tdmqsh-removebg-preview_u0hgsd.png"
+    }
+  ],
+  "precio": "$12 MXN"
+},
+{
+  "id": "8",
+  "name": "Chocolate Caliente",
+  "type": "bebidas",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-champurrado_zacyna-removebg-preview_h9ge7e.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-arroz_con_leche_omds9n-removebg-preview_rfj0qr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/chocolate_agpz4n.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-cafe_tdmqsh-removebg-preview_u0hgsd.png"
+    }
+  ],
+  "precio": "$12 MXN"
+},
+{
+  "id": "9",
+  "name": "Café Negro",
+  "type": "bebidas",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-champurrado_zacyna-removebg-preview_h9ge7e.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-arroz_con_leche_omds9n-removebg-preview_rfj0qr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780889/luxa.org-opacity-changed-chocolate_agpz4n-removebg-preview_vco2il.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/cafe_tdmqsh.png"
+    }
+  ],
+  "precio": "$12 MXN"
+},
+{
+  "id": "10",
+  "name": "Tamal Verde",
+  "type": "tamales",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/T-VERDE_qdbpna.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587430/Imagenes%20guapjolotas/verde_z8lll0.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$14 MXN"
+},
+{
+  "id": "11",
+  "name": "Tamal de Mole",
+  "type": "tamales",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/T-MOLE_kd85ue.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587428/Imagenes%20guapjolotas/mole_o0b8uh.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$14 MXN"
+},
+{
+  "id": "12",
+  "name": "Tamal de Guayaba",
+  "type": "tamales",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/TD-GUAYABA_goyskm.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707786554/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_qjmxjc.png"
+    }
+  ],
+  "precio": "$14 MXN"
+},
+{
+  "id": "13",
+  "name": "Tamal de Piña",
+  "type": "tamales",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587430/Imagenes%20guapjolotas/TD-PI%C3%91A_qfhege.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pi%C3%B1a_zrts1p.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780888/luxa.org-opacity-changed-pasas_rxtycc-removebg-preview_unbvjm.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$14 MXN"
+},
+{
+  "id": "14",
+  "name": "Tamal de Pasas",
+  "type": "tamales",
+  "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705590921/Imagenes%20guapjolotas/TD-PASAS_hd4grr.png",
+  "sabores": [
+    {
+      "id": "sabor1",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-verde_z8lll0-removebg-preview_i4dtzc.png"
+    },
+    {
+      "id": "sabor2",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-mole_o0b8uh-removebg-preview_vjxbpr.png"
+    },
+    {
+      "id": "sabor3",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780891/luxa.org-opacity-changed-rajas_m2yevq-removebg-preview_xgz7vo.png"
+    },
+    {
+      "id": "sabor4",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780892/luxa.org-opacity-changed-pi%C3%B1a_zrts1p-removebg-preview_eecnce.png"
+    },
+    {
+      "id": "sabor5",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/pasas_rxtycc.png"
+    },
+    {
+      "id": "sabor6",
+      "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1707780890/luxa.org-opacity-changed-guayaba_ti0axz-removebg-preview_ewgjnc.png"
+    }
+  ],
+  "precio": "$14 MXN"
 }
+]
